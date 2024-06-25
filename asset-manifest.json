@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contados/static/css/main.e106a6f8.css",
+    "main.js": "/contados/static/js/main.1dabad29.js",
+    "index.html": "/contados/index.html",
+    "main.e106a6f8.css.map": "/contados/static/css/main.e106a6f8.css.map",
+    "main.1dabad29.js.map": "/contados/static/js/main.1dabad29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e106a6f8.css",
+    "static/js/main.1dabad29.js"
+  ]
+}
